@@ -80,12 +80,10 @@ Welcome to the "IT Budget Analysis and Forecast" project, a detailed exploration
 
 Feel free to interact with the data, customize the reports, and uncover valuable insights into IT budget trends.
 
-## Power BI Report
-
-Access the Power BI report [here](https://app.powerbi.com/groups/me/reports/c13f2f15-5f08-43c5-b3cb-c1b508eb261d/ReportSection9828415fc69deae445d7?experience=power-bi) to explore the visualizations, dashboards, and advanced features created during this project.
 
 ## Summary
 
 This project is a comprehensive journey through IT budget analysis and forecasting using Power BI. It offers a rich set of visualizations, interactive dashboards, and advanced features for effective data-driven decision-making.
 
 Feel free to use, adapt, and contribute to this project for mutual learning and improvement.
+
